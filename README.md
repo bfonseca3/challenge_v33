@@ -14,7 +14,7 @@
 - [ ] criar um [storybook] com seus componentes
 - [ ] testes usando [jest] - testing library
 
-Encaminha os repositório e site para contatoferreirads@gmail.com
+Encaminha os repositório e site para bruno@workfy.com
 
 [storybook]: https://github.com/storybooks/storybook
 [jest]: https://jest-everywhere.now.sh
